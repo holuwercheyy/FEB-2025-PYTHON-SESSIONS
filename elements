@@ -1,0 +1,16 @@
+Elements => tags, attributes and content
+
+Tags - define elements <>
+
+<tagname>
+
+    </tagname>
+    
+    <p>....CONTENT....</p>
+
+    <imag> - self-closing or void elements
+
+
+        Attributes -
+
+        <img src="">
